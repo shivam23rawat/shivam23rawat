@@ -5,6 +5,8 @@ I am a computer science engineering student looking for internships in web devel
 - 🔭 I’m currently working on loan prediction ml model.
 - 🌱 I’m currently learning javascript and random forestalgorithm.
 - 🤝 I’m looking to contribute to full stack web projects. 
+- 👨🏽‍💻 I do competitive programming out of interest.
+
 
 ![Shivam's Github Stats](https://github-readme-stats.vercel.app/api?username=shivam23rawat&count_private=true&show_icons=true&theme=tokyonight)
 
