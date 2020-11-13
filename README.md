@@ -3,8 +3,8 @@
 ### Hi 👋
 I am a computer science engineering student looking for internships in web development and machine learning.
 - 🔭 I’m currently working on loan prediction ml model.
-- 🌱 I’m currently learning javascript and random forestalgorithm.
-- 🤝 I’m looking to contribute to full stack web projects. 
+<!--- 🌱 I’m currently learning javascript and random forestalgorithm.-->
+<!--- 🤝 I’m looking to contribute to full stack web projects. -->
 - 👨🏽‍💻 I do competitive programming out of interest.
 
 
