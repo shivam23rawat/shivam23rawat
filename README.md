@@ -2,7 +2,7 @@
 
 ### Hi 👋
 I am a computer science engineering student looking for internships in web development and machine learning.
-- 🔭 I’m currently working on loan prediction ml model.
+- 🔭 ~~I’m currently working on loan prediction ml model.~~(Completed ! have a look at my <a href="https://github.com/shivam23rawat/Home-Loan-Prediction-System">project.</a>)
 - 🌱 I’m currently learning javascript and css.
 - 🤝 I’m looking to contribute to full stack web projects. 
 - 👨🏽‍💻 I do competitive programming out of interest.
